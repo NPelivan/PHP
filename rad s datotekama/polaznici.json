@@ -1,0 +1,30 @@
+[
+    {
+        "Ime": "Ivan",
+        "Prezime": "Horvat",
+        "Godine": 35,
+        "Email": "ivan.horvat@gmail.com",
+        "Telefon": "38591222333"
+    },
+    {
+        "Ime": "Ana",
+        "Prezime": "Mi\u0161ak",
+        "Godine": 25,
+        "Email": "ana.misak@gmail.com",
+        "Telefon": "38592333444"
+    },
+    {
+        "Ime": "Kristina",
+        "Prezime": "Kristi\u0107",
+        "Godine": 31,
+        "Email": "kristina.kristic@gmail.com",
+        "Telefon": "38598444555"
+    },
+    {
+        "Ime": "Mirko",
+        "Prezime": "Mirkan",
+        "Godine": 45,
+        "Email": "mirko.mirkan@gmail.com",
+        "Telefon": "38599555666"
+    }
+]
